@@ -1,0 +1,13 @@
+.align-center{
+    text-align: center;
+}
+
+#home{
+    margin: 1cm;
+}
+
+.form-box{
+    display: inline-flex;
+    margin-right: .1cm;
+
+}

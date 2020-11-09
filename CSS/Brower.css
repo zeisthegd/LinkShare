@@ -1,0 +1,99 @@
+.row{
+    display: flex;
+}
+
+#browser{
+    display: flex;
+    flex-direction: column;
+    margin: 30px;
+    padding-left: 1.75cm;
+    width: auto;
+
+}
+
+.col_center{
+    text-emphasis: center;
+    margin-top: 7px;
+    padding-left: 30px;
+}
+
+[type = search]{
+    -webkit-appearance: textfield;
+    outline: -2px;
+    height: 35;
+}
+
+#submit{
+    height: 35;
+}
+
+select{
+    height: 35;
+    width: 165;
+    text-align: center;
+    margin: 3px;
+    padding: 5px;
+}
+
+.logo_right{
+    float: right;
+    margin-top: 13px;
+    padding-left: 40px;
+}
+
+.logo_right_2{
+    padding-top: 0px;
+    padding-left: 20px;
+}
+
+
+
+div#dangnhap{
+	margin-top: 40px;
+	margin-right: 60px;
+    float:right;
+}
+
+#table_left{
+    float: right;
+    margin-right: 50px;
+    padding-right: 30px;
+    width: 1160px;
+    background-color: aquamarine;
+    height: 40px;
+}
+
+.align-center{
+    text-align: center;
+
+}
+
+.browser{
+    display: flex;
+    flex-direction: row;
+}
+
+.browser .col-left{
+    width: 140px;
+    margin: 10;
+    padding: 20px;
+    padding-top: 0px;
+}
+
+.adv1, .adv2, .adv3{
+    display: block;
+}
+
+.browser .col-center{
+    width: 100%;
+    margin: 0;
+    padding: 10px;
+    padding-left: 100px;
+}
+
+.browser .col-right{
+    width: 140px;
+    margin: 10;
+    padding: 95px;
+    padding-top: 0px;
+}
